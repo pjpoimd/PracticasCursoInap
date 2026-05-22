@@ -51,7 +51,7 @@ main {
 .hero,
 .split {
   display: grid;
-  grid-template-columns: 1.1fr .9fr;
+  grid-template-columns: 11fr 9fr;
   gap: 2rem;
   align-items: center;
 }
