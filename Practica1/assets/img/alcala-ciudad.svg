@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Silueta urbana de Alcalá de Guadaíra">
+  <rect width="800" height="500" fill="#dff3ee"/>
+  <circle cx="670" cy="110" r="42" fill="#ffd66e"/>
+  <rect x="70" y="270" width="170" height="130" fill="#0d7f6f"/>
+  <rect x="250" y="230" width="160" height="170" fill="#157f94"/>
+  <rect x="430" y="200" width="230" height="200" fill="#0a6255"/>
+  <polygon points="510,200 545,145 580,200" fill="#0a6255"/>
+  <rect y="400" width="800" height="100" fill="#7ac2b0"/>
+</svg>
